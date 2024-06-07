@@ -104,5 +104,6 @@
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-3564DD?style=for-the-badge&logo=rapid&logoColor=white)  
 ![1Password](https://img.shields.io/badge/1Password-0094F5?style=for-the-badge&logo=1password&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)
 
 <a href="https://opgc.me/#/users/2paperstar" target="_blank"><img src="https://api.opgc.me/githubs/users/2paperstar/tag/?theme=basic" /></a>
