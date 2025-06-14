@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @2paperstar
-- 👀 I’m interested in `Software Development`
+- 👋 Hi, I’m @2paperstar, Boseong Lee
+- 👀 I’m interested in `Software Engineering`
 - 🌱 I’m currently learning `Computer Science`
 - 💞️ I’m looking to collaborate on making service
 - 📫 How to reach me [lee@paperst.ar](mailto:lee@paperst.ar)
