@@ -37,6 +37,7 @@
 [![Shell](https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](#)
+[![Typst](https://img.shields.io/badge/typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)](#)
 
 #### Web Frontend
 
